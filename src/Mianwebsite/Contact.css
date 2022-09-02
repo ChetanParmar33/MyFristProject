@@ -1,0 +1,49 @@
+.main_Contact
+{
+    display: flex;
+    margin: 50px 6%;
+}
+
+.Contact_text_from
+{
+    width: 50%;
+}
+
+.Contact_text_from p
+{
+    font-size: 18px;
+    color: gray;
+    padding: 0px;
+    margin: 2px 0px;
+}
+
+.Contact_text_from input
+{
+    padding: 6px 170px;
+    border: 1px solid gray;
+    margin-bottom: 25px;
+}
+.Contact_text_from textarea
+{
+    padding: 80px 180px;
+    border: 1px solid gray;
+}
+
+.contactptage p
+{
+    margin-bottom: 20px;
+}
+
+.contactptage
+{
+    padding-left: 150px;
+}
+
+.send_msg
+{
+    padding: 15px 25px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+
+}
