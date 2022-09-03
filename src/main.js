@@ -1,12 +1,10 @@
 import React from 'react';
-import Header from './Ecommers/Header';
-import Happy from './Ecommers/Happy';
+import Home from './FeatchAPI/Home';
 
 function main() {
   return (
     <>
-    <Header/>
-    <Happy/>
+    <Home/>
     </>
   )
 }

@@ -1,0 +1,117 @@
+.mdiv
+{
+    border-radius: 10px;
+    width: 175px;
+    height: 320px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border: 3px solid blueviolet;
+    overflow: hidden;
+    margin: 5px 10px;
+}
+
+.allbtn
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 90px;
+    background-color: aquamarine;
+}
+
+.allbtn button
+{
+    margin: 0px 20px;
+    width: 120px;
+    background-color: rgb(93, 1, 223);
+    border:none;
+    border-radius: 5px;
+    transition: 0.5s ease;
+    color: white;
+}
+
+.allbtn button:hover
+{
+    background-color: blue;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+    color:rgb(234, 246, 7) ;
+}
+.mvh1
+{
+    text-align: center;
+    color: blue;
+}
+
+.icon i
+{
+    color: blue;
+    border: 2px solid red;
+}
+.mvh1 label
+{
+    color: crimson;
+}
+.mdiv img 
+{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+}
+
+.imgpost img
+{
+    box-sizing: border-box;
+}
+
+.imgpost
+{
+    height: 240px;
+    width: 173px;
+    border-radius: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.mpara
+{
+    margin: 2px 0px;
+    height: 50px;
+}
+
+.mpara p
+{
+    margin: 0px;
+    padding: 0px;
+}
+.mbtn
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 2px;
+}
+
+.mdiv button
+{
+    background-color: rgb(5, 121, 255);
+    color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+
+}
+
+.apiproj
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 9%;
+}
